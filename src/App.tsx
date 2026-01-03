@@ -62,10 +62,6 @@ function App() {
             />
           </div>
         </div>
-
-        <footer className="text-center text-gray-500 text-sm mt-12">
-          <p>Built with React, TypeScript, Tailwind CSS, and Supabase</p>
-        </footer>
       </div>
     </div>
   );
