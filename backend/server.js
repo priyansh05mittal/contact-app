@@ -11,7 +11,7 @@ const app = express();
 connectDB();
 
 app.use(cors({
-  origin: "https://contactappp-git-master-priyansh-mittals-projects.vercel.app",
+  origin: "https://contact-app-git-master-priyansh-mittals-projects.vercel.app/",
   methods: ["GET", "POST", "PUT", "DELETE"],
   credentials: true
 }));
